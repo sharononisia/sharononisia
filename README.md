@@ -2,7 +2,7 @@
 
 💻 Building Robust Web Applications
 
-👋 Hello! I'm a passionate full-stack developer with expertise in JavaScript and TypeScript ecosystems. I build modern, scalable web applications with clean code and efficient architecture.
+👋 Hello! I'm Sharon, a passionate full-stack developer with expertise in JavaScript and TypeScript ecosystems. I build modern, scalable web applications with clean code and efficient architecture.
 
 ---
 

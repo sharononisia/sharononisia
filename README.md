@@ -123,5 +123,5 @@ I'm always open to discussing new projects, creative ideas or opportunities to b
 ---
 
 <p align="center">
-  ❤️ © 2023 Full-Stack Developer | Crafted with passion
+   Full-Stack Developer | Crafted with passion
 </p>

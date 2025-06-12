@@ -1,6 +1,6 @@
 Hi there 👋
 
-I’m Sharon, software developer blending design and technology into stunning, high-performance applications.
+I’m Sharon,full-stack developer blending design and technology into stunning, high-performance applications.
 
 With a keen eye for detail and a growth mindset, I’m dedicated to crafting software that’s both functional and delivers exceptional user experiences. I thrive on turning complex challenges into scalable solutions and continually seek new ways to innovate and improve.
 

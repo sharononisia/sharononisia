@@ -116,7 +116,7 @@ I'm particularly passionate about:
 
 I'm always open to discussing new projects, creative ideas or opportunities to be part of your vision.
 
-[📧 Email Me](sharononisia@gmail.com) | 
+[📧 Email Me](mailto:sharononisia@gmail.com) | 
 [💼 LinkedIn](https://www.linkedin.com/in/sharon-onisia-9373a2319/) |  
 [🐙 GitHub](https://sharononisia-portfolio.netlify.app/)
 

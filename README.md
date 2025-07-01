@@ -1,4 +1,4 @@
-# 🚀 Full-Stack Developer | JavaScript/TypeScript Specialist
+# 🚀 Full-Stack Developer | JavaScript/TypeScript 
 
 💻 Building Robust Web Applications
 

@@ -12,6 +12,7 @@
 - 🔹 JavaScript (ES6+)
 - 🔹 TypeScript
 - 🔹 React.js
+- 🔹 Vue.js
 - 🔹 HTML5 & Semantic Markup
 - 🔹 CSS3 & Tailwind CSS
 - 🔹 Responsive Design
